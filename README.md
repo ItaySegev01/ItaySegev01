@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Itay</h1>
 <h3 align="center">A passionate full-Stack developer</h3>
-<p alien="center">👋 Hi there! I'm Itay Segev, a full stack web developer who loves creating smart and effective solutions. I use the latest technologies and programming principles to make every project a success.
+<h5 align="center">about me:</h5>
+<p alien="center">
 
 🛠️ Crafting User-Friendly Experiences:
 I'm great at building interactive and good-looking web applications. I work with HTML, CSS, and JavaScript to create smooth and responsive interfaces. I also use tools like React and Angular to make engaging designs.
