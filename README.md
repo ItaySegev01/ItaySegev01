@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Itay</h1>
 <h3 align="center">A passionate full-Stack developer</h3>
-<h5 align="start">about me: </h5>
+<h4 align="start">about me: </h4>
 <p alien="center">
 
 🛠️ Crafting User-Friendly Experiences:
