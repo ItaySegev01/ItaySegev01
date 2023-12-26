@@ -1,5 +1,26 @@
 <h1 align="center">Hi 👋, I'm Itay</h1>
 <h3 align="center">A passionate full-Stack developer</h3>
+<p alien="center">👋 Hi there! I'm Itay Segev, a full stack web developer who loves creating smart and effective solutions. I use the latest technologies and programming principles to make every project a success.
+
+🛠️ Crafting User-Friendly Experiences:
+I'm great at building interactive and good-looking web applications. I work with HTML, CSS, and JavaScript to create smooth and responsive interfaces. I also use tools like React and Angular to make engaging designs.
+
+🌐 Navigating Servers:
+Beyond just the front-end, I know my way around server technologies like ASP.NET, C# .NET Core, and Node.js. I build strong REST APIs and use tools like Entity Framework to make sure apps perform well and can handle more users.
+
+🗃️ Managing Data with Expertise:
+Databases are crucial, and I'm skilled in both MongoDB and MSSQL. I manage data well and know how to make databases work efficiently.
+
+📚 Strong Principles:
+I believe in solid programming basics. I use my understanding of data structures, object-oriented design, and design patterns to create software that works well and is easy to maintain.
+
+🌱 Always Learning:
+In the fast-changing tech world, I'm always learning. I keep up with new trends and tools to improve my skills.
+
+🌟 Full Stack Foundation:
+I started with a year and a half course in full-stack development. This gave me a good understanding of the whole development process and how to work with different teams.
+
+Whether it's making something new or improving existing systems, I focus on making high-quality software that goes beyond expectations. Let's connect and talk about how I can help with your next project!</p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/obernardovieira/f4ec9b75736a98be5f6198f5ae40b897/raw/2546374e14122f5c0a8c7cc0c49edd07bf5d14cd/dev.gif">
 
 
